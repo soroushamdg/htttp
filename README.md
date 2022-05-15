@@ -1,7 +1,7 @@
 # htttp
 
 First from-scratch flutter app.
-Forgot to add git from beginning, written on 15/5/2022, 10 AM to 14 PM.
+Forgot to add git since beginning.
 
 ## used packages
 get: ^4.6.3
